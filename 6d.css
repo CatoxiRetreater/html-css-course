@@ -1,0 +1,19 @@
+p{
+  font-family: Montserrat;
+  text-align: center;
+}
+
+.model{
+  font-weight: bold;
+  font-size: 33px;
+  margin-bottom: 0px;
+}
+
+.micro{
+  margin-top: 7px;
+}
+
+.touchless{
+  text-decoration: underline;
+  cursor: pointer;
+}
